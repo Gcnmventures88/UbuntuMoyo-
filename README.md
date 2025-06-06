@@ -102,23 +102,23 @@ Você pode copiar, adaptar, compartilhar e reutilizar os conteúdos livremente, 
 #### Línguas Africanas por País
 
 🇩🇿 Argélia  
-  🗣️ Árabe  (README.ao.kmb.md)
-  🗣️ Tamazight  (README.ao.kmb.md)
+  🗣️ [Árabe](README.arg.arb.md)
+  🗣️ [Tamazight](README.arg.tmz.md)
 
 🇦🇴 Angola  
-  🗣️ Kimbundu  (README.ao.kmb.md)
-  🗣️ Kikongo  (README.ao.kmb.md)
-  🗣️ Umbundu  (README.ao.kmb.md)
+  🗣️ [Kimbundu](README.ao.kmb.md)
+  🗣️ [Kikongo](README.ao.kong.md)
+  🗣️ [Umbundu](README.ao.umb.md)
 
 🇧🇯 Benim  
-  🗣️ Fon  (README.ao.kmb.md)
-  🗣️ Yorubá  (README.ao.kmb.md)
+  🗣️ [Fon](README.ben.fn.md)
+  🗣️ [Yorubá](README.ben.yba.md)
 
 🇧🇼 Botsuana  
-  🗣️ Tswana  (README.ao.kmb.md)
+  🗣️ [Tswana](README.bot.tcw.md)
 
 🇧🇫 Burkina Faso  
-  🗣️ Mossi  (README.ao.kmb.md)
+  🗣️ [Mossi](README.burk.ms.md)
 
 🇧🇮 Burundi  
   🗣️ Kirundi  (README.ao.kmb.md)
@@ -317,21 +317,7 @@ Você pode copiar, adaptar, compartilhar e reutilizar os conteúdos livremente, 
 
 🇿🇼 Zimbábue  
   🗣️ Shona  (README.ao.kmb.md)
-  🗣️ Ndebele(README.ao.kmb.md)
-🇦🇴 Angola  
-  🗣️ [Kimbundu](README.ao.kmb.md)
-  🗣️ [Kikongo](README.ao.kon.md)
-  🗣️ [Umbundu](README.ao.umb.md)
-
-🇧🇯 Benim  
-  🗣️ [Fon](README.ben.fn.md)
-  🗣️ [Yoruba](README.ben.yb.md)
-
-🇧🇼 Botsuana
- 🗣️ [Tswana](README.bot.ts.md)
-
-🇧🇫 Burkina Faso  
-  🗣️ [Mossi](README.buk.mo.md)
+  🗣️ Ndebele(README.ao.kmb.md
 
 🇧🇮 Burundi  
   🗣️ [Kirundi](README.bud.kir.md)

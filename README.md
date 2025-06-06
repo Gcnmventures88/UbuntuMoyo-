@@ -100,7 +100,223 @@ Você pode copiar, adaptar, compartilhar e reutilizar os conteúdos livremente, 
 🇯🇵 [Japonês](README.jp.md) 
 
 #### Línguas Africanas por País
+🇩🇿 Argélia  
+  🗣️ Árabe  
+  🗣️ Tamazight  
 
+🇦🇴 Angola  
+  🗣️ Kimbundu  
+  🗣️ Kikongo  
+  🗣️ Umbundu  
+
+🇧🇯 Benim  
+  🗣️ Fon  
+  🗣️ Yorubá  
+
+🇧🇼 Botsuana  
+  🗣️ Tswana  
+
+🇧🇫 Burkina Faso  
+  🗣️ Mossi  
+
+🇧🇮 Burundi  
+  🗣️ Kirundi  
+
+🇨🇻 Cabo Verde  
+  🗣️ Crioulo cabo-verdiano  
+
+🇨🇲 Camarões  
+  🗣️ Duala  
+  🗣️ Ewondo  
+
+🇨🇫 República Centro-Africana  
+  🗣️ Sango  
+
+🇹🇩 Chade  
+  🗣️ Sara  
+  🗣️ Árabe chadiano  
+
+🇰🇲 Comores  
+  🗣️ Comoriano (Shikomori)  
+  🗣️ Francês  
+  🗣️ Árabe  
+
+🇨🇩 República Democrática do Congo  
+  🗣️ Lingala  
+  🗣️ Suaíli  
+  🗣️ Kikongo  
+  🗣️ Tchiluba  
+
+🇨🇬 República do Congo  
+  🗣️ Lingala  
+  🗣️ Kituba  
+
+🇨🇮 Costa do Marfim  
+  🗣️ Baoulé  
+  🗣️ Dioula  
+
+🇩🇯 Djibuti  
+  🗣️ Somali  
+  🗣️ Afar  
+  🗣️ Árabe  
+
+🇪🇬 Egito  
+  🗣️ Árabe egípcio  
+
+🇬🇶 Guiné Equatorial  
+  🗣️ Fang  
+  🗣️ Bubi  
+  🗣️ Espanhol  
+
+🇪🇷 Eritreia  
+  🗣️ Tigrínia  
+  🗣️ Árabe  
+
+🇪🇹 Etiópia  
+  🗣️ Amárico  
+  🗣️ Oromo  
+  🗣️ Tigrínia  
+
+🇬🇦 Gabão  
+  🗣️ Fang  
+
+🇬🇲 Gâmbia  
+  🗣️ Mandinga  
+  🗣️ Wolof  
+
+🇬🇭 Gana  
+  🗣️ Akan  
+  🗣️ Ewe  
+  🗣️ Dagbani  
+
+🇬🇳 Guiné  
+  🗣️ Fula  
+  🗣️ Mandinga  
+  🗣️ Susu  
+
+🇬🇼 Guiné-Bissau  
+  🗣️ Crioulo guineense  
+  🗣️ Fula  
+  🗣️ Balanta  
+
+🇰🇪 Quênia  
+  🗣️ Suaíli  
+  🗣️ Kikuyu  
+  🗣️ Luo  
+
+🇱🇸 Lesoto  
+  🗣️ Sesoto  
+
+🇱🇷 Libéria  
+  🗣️ Kpelle  
+  🗣️ Bassa  
+
+🇱🇾 Líbia  
+  🗣️ Árabe líbio  
+  🗣️ Tamazight  
+
+🇲🇬 Madagáscar  
+  🗣️ Malgaxe  
+
+🇲🇼 Maláui  
+  🗣️ Chichewa  
+
+🇲🇱 Mali  
+  🗣️ Bambara  
+
+🇲🇷 Mauritânia  
+  🗣️ Hassaniya árabe  
+  🗣️ Pulaar  
+
+🇲🇺 Maurício  
+  🗣️ Crioulo mauriciano  
+
+🇲🇦 Marrocos  
+  🗣️ Árabe marroquino  
+  🗣️ Tamazight  
+
+🇲🇿 Moçambique  
+  🗣️ Changana  
+  🗣️ Macua  
+  🗣️ Sena  
+
+🇳🇦 Namíbia  
+  🗣️ Ovambo  
+  🗣️ Herero  
+
+🇳🇪 Níger  
+  🗣️ Hausa  
+  🗣️ Zarma  
+
+🇳🇬 Nigéria  
+  🗣️ Iorubá  
+  🗣️ Hausa  
+  🗣️ Igbo  
+
+🇷🇼 Ruanda  
+  🗣️ Kinyarwanda  
+
+🇸🇹 São Tomé e Príncipe  
+  🗣️ Forro  
+  🗣️ Angolar  
+
+🇸🇳 Senegal  
+  🗣️ Wolof  
+  🗣️ Pulaar  
+
+🇸🇨 Seicheles  
+  🗣️ Crioulo seichelense  
+
+🇸🇱 Serra Leoa  
+  🗣️ Krio  
+  🗣️ Mende  
+  🗣️ Temne  
+
+🇸🇴 Somália  
+  🗣️ Somali  
+  🗣️ Árabe  
+
+🇿🇦 África do Sul  
+  🗣️ Zulu  
+  🗣️ Xhosa  
+  🗣️ Sotho  
+  🗣️ Tswana  
+  🗣️ Venda  
+
+🇸🇸 Sudão do Sul  
+  🗣️ Dinka  
+  🗣️ Nuer  
+
+🇸🇩 Sudão  
+  🗣️ Árabe  
+  🗣️ Beja  
+
+🇸🇿 Essuatíni  
+  🗣️ Siswati  
+
+🇹🇿 Tanzânia  
+  🗣️ Suaíli  
+  🗣️ Maasai  
+
+🇹🇬 Togo  
+  🗣️ Ewe  
+  🗣️ Kabiyé  
+
+🇹🇳 Tunísia  
+  🗣️ Árabe tunisiano  
+  🗣️ Tamazight  
+
+🇺🇬 Uganda  
+  🗣️ Luganda  
+  🗣️ Acoli  
+
+🇿🇲 Zâmbia  
+  🗣️ Bemba  
+  🗣️ Nyanja  
+
+🇿🇼 Zimbábue  
+  🗣️ Shona  
+  🗣️ Ndebele
 🇦🇴 Angola  
   🗣️ [Kimbundu](README.ao.kmb.md)
   🗣️ [Kikongo](README.ao.kon.md)

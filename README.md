@@ -110,8 +110,8 @@ Você pode copiar, adaptar, compartilhar e reutilizar os conteúdos livremente, 
   🗣️ [Fon](README.ben.fn.md)
   🗣️ [Yoruba](README.ben.yb.md)
 
-🇧🇼 Botsuana  
-  🗣️  [Tswana](README.bot.ts.md)
+🇧🇼 Botsuana
+ 🗣️ [Tswana](README.bot.ts.md)
 
 🇧🇫 Burkina Faso  
   🗣️ [Mossi](README.buk.mo.md)

@@ -104,7 +104,24 @@ Você pode copiar, adaptar, compartilhar e reutilizar os conteúdos livremente, 
 🇦🇴 Angola  
   🗣️ [Kimbundu](README.ao.kmb.md)
   🗣️ [Kikongo](README.ao.kon.md)
+  🗣️ [Umbundu](README.ao.umb.md)
 
+🇧🇯 Benim  
+  🗣️ [Fon](README.ben.fn.md)
+  🗣️ [Yoruba](README.ben.yb.md)
+
+🇧🇼 Botsuana  
+  🗣️ [Tswana](README.bot.ts.md)
+
+🇧🇫 Burkina Faso  
+  🗣️ [Mossi](README.buk.mo.md)
+
+🇧🇮 Burundi  
+  🗣️ [Kirundi](README.bud.kir.md)
+
+🇨🇻 Cabo Verde  
+  🗣️ [Crioulo cabo-verdiano](README.cap.cri.md)
+  
 🇨🇩 República Democrática do Congo  
   🗣️ [Lingala](README.cd.ling.md)  
   🗣️ [Swahili](README.cd.swa.md) 

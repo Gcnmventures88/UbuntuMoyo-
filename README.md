@@ -1,56 +1,58 @@
 UbuntuMoyo
 
-![Licença: CC0](https://img.shields.io/badge/Licença-CC0_1.0-lightgrey.svg)
+[![Licença CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/deed.pt)
 
-**UbuntuMoyo** é um projeto multitemático dedicado à valorização da cultura, história e saberes africanos — tanto do continente quanto das diásporas africanas ao redor do mundo.
+**UbuntuMoyo** é um projeto multitemático dedicado à valorização da cultura, história e saberes africanos — tanto do continente quanto das diásporas ao redor do mundo.
 
 ## 🌍 Sobre o nome
 
-- **Ubuntu**: filosofia africana que significa “Eu sou porque nós somos”, destacando a importância da coletividade, solidariedade e respeito mútuo.  
-- **Moyo**: palavra que significa “coração” ou “alma” em diversas línguas bantu, representando a força vital e o espírito dos povos africanos.
+- **Ubuntu**: filosofia africana que significa “eu sou porque nós somos”, enfatizando a comunidade, solidariedade e respeito mútuo.
+- **Moyo**: palavra que significa “coração” ou “alma” em várias línguas bantu, simbolizando o espírito e a força vital dos povos africanos.
 
-## 🎯 Objetivos do projeto
+## 🎯 Objetivos do Projeto
 
-Reunir, preservar e divulgar conteúdos que reflitam a diversidade e riqueza do continente africano e de suas diásporas.
+Reunir, preservar e divulgar conteúdos que refletem a diversidade e riqueza do continente africano e de suas diásporas, promovendo o acesso livre ao conhecimento ancestral e contemporâneo.
 
-## 📚 Temáticas abordadas
+## 📚 Temas abordados
 
-- 🗣️ **Histórias orais**: contos, lendas, narrativas tradicionais.  
-- 🔤 **Línguas africanas**: provérbios, dicionários, expressões locais.  
-- ✊ **Líderes e movimentos**: heróis históricos, resistência, lutas sociais.  
-- 🧠 **Sabedoria tradicional**: ensinamentos ancestrais, filosofias.  
-- ⛪ **Religiões e espiritualidades africanas**: cosmovisões, rituais, simbologias.  
-- 🎨 **Arte e música**: artistas, ritmos, instrumentos tradicionais.  
-- 🍲 **Culinária africana**: receitas, saberes alimentares, práticas culturais.  
-- 📰 **História e política**: tratados, documentos históricos, movimentos sociais.
+- 🗣️ **Histórias orais** – contos, lendas, narrativas tradicionais.
+- 🔤 **Línguas africanas** – glossários, provérbios, expressões locais.
+- ✊ **Líderes e movimentos** – figuras históricas, resistência, lutas por liberdade e justiça.
+- 🧠 **Sabedoria popular** – ensinamentos, filosofia africana, provérbios.
+- ⛪ **Religiões e espiritualidade africanas** – cosmovisões, rituais, símbolos.
+- 🎨 **Arte e música** – artistas, ritmos, instrumentos e expressões culturais.
+- 🍲 **Culinária africana** – receitas, práticas alimentares e saberes ancestrais.
+- 📰 **História e política** – tratados, documentos, processos históricos e sociais.
 
 ## 🤝 Como contribuir
 
-Este projeto é **aberto e colaborativo**. Você pode participar das seguintes formas:
+Este é um projeto aberto e colaborativo. Para participar:
 
-1. Faça um **fork** do repositório.  
-2. Adicione seus arquivos nas pastas correspondentes.  
-3. Crie um **Pull Request** com sua contribuição.  
-4. Compartilhe a iniciativa com mais pessoas!
+1. Faça um **fork** do repositório;
+2. Adicione seus arquivos nas pastas temáticas;
+3. Crie um **Pull Request** com sua contribuição;
+4. Compartilhe e divulgue com outras pessoas.
 
-> ⚠️ Utilize fontes confiáveis e respeite os direitos culturais e autorais dos povos e comunidades envolvidas.
+⚠️ Use sempre fontes confiáveis e respeite os direitos culturais e autorais das comunidades representadas.
 
-## 📁 Estrutura do repositório
+## 📁 Estrutura sugerida
 
-UbuntuMoyo/ ├── historias-orais/ ├── linguas/ ├── lideres-e-movimentos/ ├── religioes-e-espiritualidade/ ├── arte-e-musica/ ├── culinaria/ ├── historia-e-politica/ ├── README.md
+UbuntuMoyo/ ├── historias-orais/ ├── linguas/ ├── lideres-e-movimentos/ ├── religioes-e-espiritualidade/ ├── arte-e-musica/ ├── culinaria/ ├── historia-e-politica/ └── README.md
 
-Cada pasta poderá conter documentos, vídeos, áudios, imagens e textos relacionados à temática.
+Cada pasta pode conter textos, imagens, áudios, vídeos ou documentos relacionados ao seu tema.
 
 ## 📝 Licença
 
 Este projeto está licenciado sob a **Creative Commons Zero (CC0)**.  
-Você pode copiar, adaptar, compartilhar e reutilizar livremente o conteúdo, desde que respeite as culturas envolvidas.  
-🔗 [Mais informações sobre a licença CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.pt)
+Você pode copiar, adaptar, compartilhar e reutilizar livremente os conteúdos, desde que respeite as culturas e contextos envolvidos.
+
+👉 Saiba mais: [https://creativecommons.org/publicdomain/zero/1.0/deed.pt](https://creativecommons.org/publicdomain/zero/1.0/deed.pt)
 
 ## 📬 Contato
 
-Para dúvidas, colaborações diretas ou sugestões, entre em contato com o mantenedor do projeto através do GitHub.
+Para colaborações, ideias ou dúvidas, entre em contato com o mantenedor do projeto via GitHub.
 
 ---
 
-**UbuntuMoyo é mais que um repositório. É uma biblioteca viva do coração africano.** ❤️🌍
+**UbuntuMoyo é mais que um repositório.**  
+É uma biblioteca viva do coração africano. ❤️🌍

@@ -26,6 +26,9 @@ Reunir, preservar e divulgar conteúdos que refletem a diversidade e riqueza do 
 
 ## 🤝 Como contribuir
 
+- Compartilhe e divulgue com outras pessoas.
++ Compartilhe e divulgue com outras pessoas.
+
 Este é um projeto aberto e colaborativo. Para participar:
 
 1. Faça um fork do repositório;  

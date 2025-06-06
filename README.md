@@ -6,7 +6,7 @@ UbuntuMoyo
 
 ## 🌍 Sobre o nome
 
-- **Ubuntu**: filosofia africana que significa “eu sou porque nós somos”, enfatizando a comunidade, solidariedade e respeito mútuo.
+- **Ubuntu**: filosofia africana que significa “eu sou porque nós somos”, enfatizando a comunidade, a solidariedade e o respeito mútuo.
 - **Moyo**: palavra que significa “coração” ou “alma” em várias línguas bantu, simbolizando o espírito e a força vital dos povos africanos.
 
 ## 🎯 Objetivos do Projeto
@@ -33,7 +33,7 @@ Este é um projeto aberto e colaborativo. Para participar:
 3. Crie um **Pull Request** com sua contribuição;
 4. Compartilhe e divulgue com outras pessoas.
 
-⚠️ Use sempre fontes confiáveis e respeite os direitos culturais e autorais das comunidades representadas.
+⚠️ Use sempre fontes confiáveis e **respeite os direitos culturais e autorais** das comunidades representadas.
 
 ## 📁 Estrutura sugerida
 
@@ -44,7 +44,7 @@ Cada pasta pode conter textos, imagens, áudios, vídeos ou documentos relaciona
 ## 📝 Licença
 
 Este projeto está licenciado sob a **Creative Commons Zero (CC0)**.  
-Você pode copiar, adaptar, compartilhar e reutilizar livremente os conteúdos, desde que respeite as culturas e contextos envolvidos.
+Você pode copiar, adaptar, compartilhar e reutilizar livremente os conteúdos, **desde que respeite as culturas e os contextos envolvidos**.
 
 👉 Saiba mais: [https://creativecommons.org/publicdomain/zero/1.0/deed.pt](https://creativecommons.org/publicdomain/zero/1.0/deed.pt)
 
@@ -55,4 +55,4 @@ Para colaborações, ideias ou dúvidas, entre em contato com o mantenedor do pr
 ---
 
 **UbuntuMoyo é mais que um repositório.**  
-É uma biblioteca viva do coração africano. ❤️🌍
+É uma biblioteca viva do coração africano — conectando continentes, culturas e gerações.

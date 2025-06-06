@@ -1,0 +1,37 @@
+# UbuntuMoyo
+
+UbuntuMoyo est un projet multithématique dédié à la valorisation de la culture, de l'histoire et des savoirs africains — du continent et de la diaspora.
+
+🌍 **À propos du nom**
+- **Ubuntu** : philosophie africaine signifiant « je suis parce que nous sommes ».
+- **Moyo** : signifie « cœur » ou « âme » dans plusieurs langues bantoues.
+
+🎯 **Objectifs**
+Rassembler, préserver et partager des contenus reflétant la richesse de l’Afrique et de sa diaspora, tout en favorisant l’accès libre au savoir.
+
+📚 **Thèmes abordés**
+- 🗣️ Histoires orales
+- 🔤 Langues africaines
+- ✊ Leaders et mouvements
+- 🧠 Savoirs populaires
+- ⛪ Religions et spiritualité
+- 🎨 Art et musique
+- 🍲 Cuisine africaine
+- 📰 Histoire et politique
+
+🤝 **Comment contribuer**
+1. Fork du dépôt.
+2. Ajoutez vos fichiers dans les dossiers.
+3. Envoyez un Pull Request.
+4. Partagez avec d'autres.
+> ⚠️ Utilisez des sources fiables et respectez les droits culturels.
+
+📁 **Structure suggérée**
+
+UbuntuMoyo/ ├── histoires-orales/ ├── langues/ ├── leaders-et-mouvements/ ├── religions-et-spiritualité/ ├── art-et-musique/ ├── cuisine/ ├── histoire-et-politique/ └── README.md
+
+📝 **Licence** : [Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/deed.fr)
+
+📬 **Contact** : via GitHub.
+
+UbuntuMoyo est une bibliothèque vivante du cœur africain. ❤️🌍

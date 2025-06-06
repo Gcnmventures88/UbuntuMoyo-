@@ -28,8 +28,6 @@ Reunir, preservar e divulgar conteúdos que refletem a diversidade e riqueza do 
 
 - Compartilhe e divulgue com outras pessoas.
 
-Este é um projeto aberto e colaborativo. Para participar:
-
 1. Faça um fork do repositório;  
 2. Adicione seus arquivos nas pastas temáticas;  
 3. Crie um Pull Request com sua contribuição;  

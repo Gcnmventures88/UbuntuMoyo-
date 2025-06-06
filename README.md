@@ -73,14 +73,23 @@ Você pode copiar, adaptar, compartilhar e reutilizar os conteúdos livremente, 
 #### Línguas Internacionais
 
 🇵🇹 [Português(Portugal)](README.pt.md)
+
 🇬🇧 [Inglês](README.in.md)
+
 🇫🇷 [Francês](README.fr.md)
+
 🇪🇸 [Espanhol](README.sp.md)
+
 🇸🇦 [Árabe](README.ar.md)
+
 🇷🇺 [Russo](README.ru.md)
+
 🇨🇳 [Chinês(Simplificado)](README.zh.md) 
+
 🇮🇳 [Hindi](README.in.md)
+
 🇧🇩 [Bengali](README.bgl.md)
+
 🇯🇵 [Japonês](README.jp.md) 
 
 #### Línguas Africanas por País

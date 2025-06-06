@@ -48,12 +48,19 @@ Este é um projeto **aberto e colaborativo**. Para participar:
 UbuntuMoyo/
 
 [historias-orais](./README.ho.md)
+
 [linguas](./README.lg.md)
+
 [lideres-e-movimentos](./README.lm.md)
+
 [religioes-e-espiritualidade](./README.re.md)
+
 [arte-e-musica](./README.am.md)
+
 [culinaria](./README.cn.md)
+
 [historia-e-politica](./README.hp.md)
+
 [ciencia-e-tecnologia](./README.ct.md)
 
 Cada pasta pode conter **textos, imagens, áudios, vídeos ou documentos** relacionados ao seu tema.
@@ -115,15 +122,6 @@ Você pode copiar, adaptar, compartilhar e reutilizar os conteúdos livremente, 
 🇪🇹 Etiópia  
   🗣️ [Amárico](README.et.amh.md)
 
-
-🌐 Traduções disponíveis  
-
-- 🇵🇹 [Português (Portugal)](README.pt.md)  
-- 🇬🇧 [Inglês](README.en.md)  
-- 🇫🇷 [Francês](README.fr.md)  
-- 🇸🇦 [Árabe](README.ar.md)  
-- 🇷🇺 [Russo](README.ru.md)  
-- 🇨🇳 [Chinês (Simplificado)](README.zh.md)
 - 🌍 [Outras línguas africanas](README.af.md)
  
 ---

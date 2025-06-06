@@ -75,14 +75,16 @@ Você pode copiar, adaptar, compartilhar e reutilizar os conteúdos livremente, 
 
 ---
 
-## 🌐 Traduções disponíveis
+🌐 Traduções disponíveis  
 
-Veja este README traduzido para:
-- 🇬🇧 [English](./README.en.md)
-- 🇫🇷 [Français](./README.fr.md)
-- 🇸🇦 [العربية](./README.ar.md)
+- 🇵🇹 [Português (Portugal)](README.pt.md)  
+- 🇬🇧 [Inglês](README.en.md)  
+- 🇫🇷 [Francês](README.fr.md)  
+- 🇸🇦 [Árabe](README.ar.md)  
+- 🇷🇺 [Russo](README.ru.md)  
+- 🇨🇳 [Chinês (Simplificado)](README.zh.md)
 - 🌍 [Outras línguas africanas](./README.md)
-
+ 
 ---
 
 ## 📬 Contato

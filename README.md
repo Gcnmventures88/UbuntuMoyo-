@@ -102,22 +102,22 @@ Você pode copiar, adaptar, compartilhar e reutilizar os conteúdos livremente, 
 #### Línguas Africanas por País
 
 🇦🇴 Angola  
-  🗣️ Kimbundu [`README.ao.kmb.md`]  
-  🗣️ Kikongo [`README.ao.kon.md`]  
+  🗣️ [Kimbundu](README.ao.kmb.md)
+  🗣️ [Kikongo](README.ao.kon.md)
 
 🇨🇩 República Democrática do Congo  
-  🗣️ Lingala [`README.cd.ling.md`]  
-  🗣️ Swahili [`README.cd.swa.md`]  
+  🗣️ [Lingala](README.cd.ling.md)  
+  🗣️ [Swahili](README.cd.swa.md) 
 
 🇳🇬 Nigéria  
-  🗣️ Yoruba [`README.ng.yor.md`]  
-  🗣️ Igbo [`README.ng.ibo.md`]  
+  🗣️ [Yoruba](README.ng.yor.md)  
+  🗣️ [Igbo](README.ng.ibo.md)  
 
 🇸🇳 Senegal  
-  🗣️ Wolof [`README.sn.wol.md`]  
+  🗣️ [Wolof](README.sn.wol.md)
 
 🇲🇱 Mali  
-  🗣️ Bambara [`README.ml.bam.md`]  
+  🗣️ [Bambara](README.ml.bam.md) 
 
 🇪🇹 Etiópia  
   🗣️ [Amárico](README.et.amh.md)

@@ -11,7 +11,8 @@
 🎯 **Objetivos do Projeto**  
 Reunir, preservar e divulgar conteúdos que reflitam a diversidade e a riqueza do continente africano e de suas diásporas, promovendo o acesso livre ao conhecimento ancestral e contemporâneo.
 
-📚 Temas abordados
+📚 Temas envolvidos
+
 🗣️ Histórias orais – contos, lendas, narrativas tradicionais.  
 🔤 Línguas africanas – glossários, provérbios, expressões locais.  
 ✊ Líderes e movimentos – figuras históricas, resistência, lutas por liberdade e justiça.  
@@ -29,7 +30,8 @@ Este é um projeto aberto e colaborativo. Para participar:
 - Crie um Pull Request com sua contribuição.  
 - Compartilhe e divulgue com outras pessoas.  
 
-⚠️Use sempre fontes confiáveis e respeitando os direitos culturais e autorais das comunidades representadas.
+- ⚠️Use sempre fontes confiáveis
++ ⚠️ Use sempre fontes confiáveis
 
 📁 **Estrutura sugerida**
 

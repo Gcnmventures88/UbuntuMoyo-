@@ -1,4 +1,4 @@
-# UbuntuMoyo
+#  UbuntuMoyo
 
 **UbuntuMoyo** é um projeto multitemático dedicado à valorização, preservação e disseminação dos saberes, culturas e histórias africanas — tanto do continente quanto das diásporas ao redor do mundo.
 
@@ -75,6 +75,44 @@ Você pode copiar, adaptar, compartilhar e reutilizar os conteúdos livremente, 
 
 ---
 
+🌐 Traduções disponíveis
+
+#### Línguas Internacionais
+🇵🇹 Português (Portugal)  
+🇬🇧 Inglês  
+🇫🇷 Francês  
+🇪🇸 Espanhol  
+🇸🇦 Árabe  
+🇷🇺 Russo  
+🇨🇳 Chinês (Simplificado)  
+🇮🇳 Hindi  
+🇧🇩 Bengali  
+🇯🇵 Japonês  
+
+#### Línguas Africanas por País
+
+🇦🇴 Angola  
+  🗣️ Kimbundu [`README.ao.kmb.md`]  
+  🗣️ Kikongo [`README.ao.kon.md`]  
+
+🇨🇩 República Democrática do Congo  
+  🗣️ Lingala [`README.cd.ling.md`]  
+  🗣️ Swahili [`README.cd.swa.md`]  
+
+🇳🇬 Nigéria  
+  🗣️ Yoruba [`README.ng.yor.md`]  
+  🗣️ Igbo [`README.ng.ibo.md`]  
+
+🇸🇳 Senegal  
+  🗣️ Wolof [`README.sn.wol.md`]  
+
+🇲🇱 Mali  
+  🗣️ Bambara [`README.ml.bam.md`]  
+
+🇪🇹 Etiópia  
+  🗣️ [Amárico](README.et.amh.md)
+
+
 🌐 Traduções disponíveis  
 
 - 🇵🇹 [Português (Portugal)](README.pt.md)  
@@ -83,7 +121,7 @@ Você pode copiar, adaptar, compartilhar e reutilizar os conteúdos livremente, 
 - 🇸🇦 [Árabe](README.ar.md)  
 - 🇷🇺 [Russo](README.ru.md)  
 - 🇨🇳 [Chinês (Simplificado)](README.zh.md)
-- 🌍 [Outras línguas africanas](./README.md)
+- 🌍 [Outras línguas africanas](README.af.md)
  
 ---
 

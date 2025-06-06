@@ -1,4 +1,4 @@
-# UbuntuMoyo
+#  UbuntuMoyo
 
 ![Licença CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)
 
@@ -30,10 +30,10 @@ Este é um projeto aberto e colaborativo. Para participar:
 - Crie um Pull Request com sua contribuição.  
 - Compartilhe e divulgue com outras pessoas.  
 
-- ⚠️Use sempre fontes confiáveis
-+ ⚠️ Use sempre fontes confiáveis
+⚠️ Use sempre fontes confiáveis, respeitando os direitos culturais e autorais das comunidades representadas.
 
-📁 **Estrutura sugerida**
+📁 Estrutura sugerida
+Organize os conteúdos nas pastas temáticas conforme indicado abaixo:
 
 UbuntuMoyo/
 ├── histórias-orais/

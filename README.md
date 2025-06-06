@@ -100,223 +100,224 @@ Você pode copiar, adaptar, compartilhar e reutilizar os conteúdos livremente, 
 🇯🇵 [Japonês](README.jp.md) 
 
 #### Línguas Africanas por País
+
 🇩🇿 Argélia  
-  🗣️ Árabe  
-  🗣️ Tamazight  
+  🗣️ Árabe  (README.ao.kmb.md)
+  🗣️ Tamazight  (README.ao.kmb.md)
 
 🇦🇴 Angola  
-  🗣️ Kimbundu  
-  🗣️ Kikongo  
-  🗣️ Umbundu  
+  🗣️ Kimbundu  (README.ao.kmb.md)
+  🗣️ Kikongo  (README.ao.kmb.md)
+  🗣️ Umbundu  (README.ao.kmb.md)
 
 🇧🇯 Benim  
-  🗣️ Fon  
-  🗣️ Yorubá  
+  🗣️ Fon  (README.ao.kmb.md)
+  🗣️ Yorubá  (README.ao.kmb.md)
 
 🇧🇼 Botsuana  
-  🗣️ Tswana  
+  🗣️ Tswana  (README.ao.kmb.md)
 
 🇧🇫 Burkina Faso  
-  🗣️ Mossi  
+  🗣️ Mossi  (README.ao.kmb.md)
 
 🇧🇮 Burundi  
-  🗣️ Kirundi  
+  🗣️ Kirundi  (README.ao.kmb.md)
 
 🇨🇻 Cabo Verde  
-  🗣️ Crioulo cabo-verdiano  
+  🗣️ Crioulo cabo-verdiano (README.ao.kmb.md) 
 
 🇨🇲 Camarões  
-  🗣️ Duala  
-  🗣️ Ewondo  
+  🗣️ Duala  (README.ao.kmb.md)
+  🗣️ Ewondo  (README.ao.kmb.md)
 
 🇨🇫 República Centro-Africana  
-  🗣️ Sango  
+  🗣️ Sango  (README.ao.kmb.md)
 
 🇹🇩 Chade  
-  🗣️ Sara  
-  🗣️ Árabe chadiano  
+  🗣️ Sara  (README.ao.kmb.md)
+  🗣️ Árabe chadiano  (README.ao.kmb.md)
 
 🇰🇲 Comores  
-  🗣️ Comoriano (Shikomori)  
-  🗣️ Francês  
-  🗣️ Árabe  
+  🗣️ Comoriano (Shikomori)  (README.ao.kmb.md)
+  🗣️ Francês  (README.ao.kmb.md)
+  🗣️ Árabe  (README.ao.kmb.md)
 
 🇨🇩 República Democrática do Congo  
-  🗣️ Lingala  
-  🗣️ Suaíli  
-  🗣️ Kikongo  
-  🗣️ Tchiluba  
+  🗣️ Lingala  (README.ao.kmb.md)
+  🗣️ Suaíli  (README.ao.kmb.md)
+  🗣️ Kikongo  (README.ao.kmb.md)
+  🗣️ Tchiluba  (README.ao.kmb.md)
 
 🇨🇬 República do Congo  
-  🗣️ Lingala  
-  🗣️ Kituba  
+  🗣️ Lingala  (README.ao.kmb.md)
+  🗣️ Kituba  (README.ao.kmb.md)
 
 🇨🇮 Costa do Marfim  
-  🗣️ Baoulé  
-  🗣️ Dioula  
+  🗣️ Baoulé  (README.ao.kmb.md)
+  🗣️ Dioula  (README.ao.kmb.md)
 
 🇩🇯 Djibuti  
-  🗣️ Somali  
-  🗣️ Afar  
-  🗣️ Árabe  
+  🗣️ Somali  (README.ao.kmb.md)
+  🗣️ Afar  (README.ao.kmb.md)
+  🗣️ Árabe  (README.ao.kmb.md)
 
 🇪🇬 Egito  
-  🗣️ Árabe egípcio  
+  🗣️ Árabe egípcio  (README.ao.kmb.md)
 
 🇬🇶 Guiné Equatorial  
-  🗣️ Fang  
-  🗣️ Bubi  
-  🗣️ Espanhol  
+  🗣️ Fang  (README.ao.kmb.md)
+  🗣️ Bubi  (README.ao.kmb.md)
+  🗣️ Espanhol  (README.ao.kmb.md)
 
 🇪🇷 Eritreia  
-  🗣️ Tigrínia  
-  🗣️ Árabe  
+  🗣️ Tigrínia  (README.ao.kmb.md)
+  🗣️ Árabe  (README.ao.kmb.md)
 
 🇪🇹 Etiópia  
-  🗣️ Amárico  
-  🗣️ Oromo  
-  🗣️ Tigrínia  
+  🗣️ Amárico  (README.ao.kmb.md)
+  🗣️ Oromo  (README.ao.kmb.md)
+  🗣️ Tigrínia  (README.ao.kmb.md)
 
 🇬🇦 Gabão  
-  🗣️ Fang  
+  🗣️ Fang  (README.ao.kmb.md)
 
 🇬🇲 Gâmbia  
-  🗣️ Mandinga  
-  🗣️ Wolof  
+  🗣️ Mandinga  (README.ao.kmb.md)
+  🗣️ Wolof  (README.ao.kmb.md)
 
 🇬🇭 Gana  
-  🗣️ Akan  
-  🗣️ Ewe  
-  🗣️ Dagbani  
+  🗣️ Akan  (README.ao.kmb.md)
+  🗣️ Ewe  (README.ao.kmb.md)
+  🗣️ Dagbani  (README.ao.kmb.md)
 
 🇬🇳 Guiné  
-  🗣️ Fula  
-  🗣️ Mandinga  
-  🗣️ Susu  
+  🗣️ Fula  (README.ao.kmb.md)
+  🗣️ Mandinga  (README.ao.kmb.md)
+  🗣️ Susu  (README.ao.kmb.md)
 
 🇬🇼 Guiné-Bissau  
-  🗣️ Crioulo guineense  
-  🗣️ Fula  
-  🗣️ Balanta  
+  🗣️ Crioulo guineense  (README.ao.kmb.md)
+  🗣️ Fula  (README.ao.kmb.md)
+  🗣️ Balanta  (README.ao.kmb.md)
 
 🇰🇪 Quênia  
-  🗣️ Suaíli  
-  🗣️ Kikuyu  
-  🗣️ Luo  
+  🗣️ Suaíli  (README.ao.kmb.md)
+  🗣️ Kikuyu  (README.ao.kmb.md)
+  🗣️ Luo  (README.ao.kmb.md)
 
 🇱🇸 Lesoto  
-  🗣️ Sesoto  
+  🗣️ Sesoto  (README.ao.kmb.md)
 
 🇱🇷 Libéria  
-  🗣️ Kpelle  
-  🗣️ Bassa  
+  🗣️ Kpelle  (README.ao.kmb.md)
+  🗣️ Bassa  (README.ao.kmb.md)
 
 🇱🇾 Líbia  
-  🗣️ Árabe líbio  
-  🗣️ Tamazight  
+  🗣️ Árabe líbio  (README.ao.kmb.md)
+  🗣️ Tamazight  (README.ao.kmb.md)
 
 🇲🇬 Madagáscar  
-  🗣️ Malgaxe  
+  🗣️ Malgaxe  (README.ao.kmb.md)
 
 🇲🇼 Maláui  
-  🗣️ Chichewa  
+  🗣️ Chichewa  (README.ao.kmb.md)
 
 🇲🇱 Mali  
-  🗣️ Bambara  
+  🗣️ Bambara  (README.ao.kmb.md)
 
 🇲🇷 Mauritânia  
-  🗣️ Hassaniya árabe  
-  🗣️ Pulaar  
+  🗣️ Hassaniya árabe  (README.ao.kmb.md)
+  🗣️ Pulaar  (README.ao.kmb.md)
 
 🇲🇺 Maurício  
-  🗣️ Crioulo mauriciano  
+  🗣️ Crioulo mauriciano  (README.ao.kmb.md)
 
 🇲🇦 Marrocos  
-  🗣️ Árabe marroquino  
-  🗣️ Tamazight  
+  🗣️ Árabe marroquino  (README.ao.kmb.md)
+  🗣️ Tamazight  (README.ao.kmb.md)
 
 🇲🇿 Moçambique  
-  🗣️ Changana  
-  🗣️ Macua  
-  🗣️ Sena  
+  🗣️ Changana  (README.ao.kmb.md)
+  🗣️ Macua  (README.ao.kmb.md)
+  🗣️ Sena  (README.ao.kmb.md)
 
 🇳🇦 Namíbia  
-  🗣️ Ovambo  
-  🗣️ Herero  
+  🗣️ Ovambo  (README.ao.kmb.md)
+  🗣️ Herero  (README.ao.kmb.md)
 
 🇳🇪 Níger  
-  🗣️ Hausa  
-  🗣️ Zarma  
+  🗣️ Hausa  (README.ao.kmb.md)
+  🗣️ Zarma  (README.ao.kmb.md)
 
 🇳🇬 Nigéria  
-  🗣️ Iorubá  
-  🗣️ Hausa  
-  🗣️ Igbo  
+  🗣️ Iorubá  (README.ao.kmb.md)
+  🗣️ Hausa  (README.ao.kmb.md)
+  🗣️ Igbo  (README.ao.kmb.md)
 
 🇷🇼 Ruanda  
-  🗣️ Kinyarwanda  
+  🗣️ Kinyarwanda  (README.ao.kmb.md)
 
 🇸🇹 São Tomé e Príncipe  
-  🗣️ Forro  
-  🗣️ Angolar  
+  🗣️ Forro  (README.ao.kmb.md)
+  🗣️ Angolar  (README.ao.kmb.md)
 
 🇸🇳 Senegal  
-  🗣️ Wolof  
-  🗣️ Pulaar  
+  🗣️ Wolof  (README.ao.kmb.md)
+  🗣️ Pulaar (README.ao.kmb.md) 
 
 🇸🇨 Seicheles  
-  🗣️ Crioulo seichelense  
+  🗣️ Crioulo seichelense  (README.ao.kmb.md)
 
 🇸🇱 Serra Leoa  
-  🗣️ Krio  
-  🗣️ Mende  
-  🗣️ Temne  
+  🗣️ Krio  (README.ao.kmb.md)
+  🗣️ Mende  (README.ao.kmb.md)
+  🗣️ Temne  (README.ao.kmb.md)
 
 🇸🇴 Somália  
-  🗣️ Somali  
-  🗣️ Árabe  
+  🗣️ Somali  (README.ao.kmb.md)
+  🗣️ Árabe  (README.ao.kmb.md)
 
 🇿🇦 África do Sul  
-  🗣️ Zulu  
-  🗣️ Xhosa  
-  🗣️ Sotho  
-  🗣️ Tswana  
-  🗣️ Venda  
+  🗣️ Zulu  (README.ao.kmb.md)
+  🗣️ Xhosa  (README.ao.kmb.md)
+  🗣️ Sotho  (README.ao.kmb.md)
+  🗣️ Tswana  (README.ao.kmb.md)
+  🗣️ Venda  (README.ao.kmb.md)
 
 🇸🇸 Sudão do Sul  
-  🗣️ Dinka  
-  🗣️ Nuer  
+  🗣️ Dinka  (README.ao.kmb.md)
+  🗣️ Nuer  (README.ao.kmb.md)
 
 🇸🇩 Sudão  
-  🗣️ Árabe  
-  🗣️ Beja  
+  🗣️ Árabe  (README.ao.kmb.md)
+  🗣️ Beja  (README.ao.kmb.md)
 
 🇸🇿 Essuatíni  
-  🗣️ Siswati  
+  🗣️ Siswati  (README.ao.kmb.md)
 
 🇹🇿 Tanzânia  
-  🗣️ Suaíli  
-  🗣️ Maasai  
+  🗣️ Suaíli  (README.ao.kmb.md)
+  🗣️ Maasai  (README.ao.kmb.md)
 
 🇹🇬 Togo  
-  🗣️ Ewe  
-  🗣️ Kabiyé  
+  🗣️ Ewe  (README.ao.kmb.md)
+  🗣️ Kabiyé  (README.ao.kmb.md)
 
 🇹🇳 Tunísia  
-  🗣️ Árabe tunisiano  
-  🗣️ Tamazight  
+  🗣️ Árabe tunisiano  (README.ao.kmb.md)
+  🗣️ Tamazight  (README.ao.kmb.md)
 
 🇺🇬 Uganda  
-  🗣️ Luganda  
-  🗣️ Acoli  
+  🗣️ Luganda  (README.ao.kmb.md)
+  🗣️ Acoli  (README.ao.kmb.md)
 
 🇿🇲 Zâmbia  
-  🗣️ Bemba  
-  🗣️ Nyanja  
+  🗣️ Bemba  (README.ao.kmb.md)
+  🗣️ Nyanja  (README.ao.kmb.md)
 
 🇿🇼 Zimbábue  
-  🗣️ Shona  
-  🗣️ Ndebele
+  🗣️ Shona  (README.ao.kmb.md)
+  🗣️ Ndebele(README.ao.kmb.md)
 🇦🇴 Angola  
   🗣️ [Kimbundu](README.ao.kmb.md)
   🗣️ [Kikongo](README.ao.kon.md)

@@ -47,21 +47,14 @@ Este é um projeto **aberto e colaborativo**. Para participar:
 
 UbuntuMoyo/
 
-[historias-orais](./README.md)
-
-[linguas](./README.md)
-
-[lideres-e-movimentos](./README.md)
-
-[religioes-e-espiritualidade](./README.md)
-
-[arte-e-musica](./README.md)
-
-[culinaria](./README.md)
-
-[historia-e-politica](./README.md)
-
-[ciencia-e-tecnologia](./README.md)
+[historias-orais](./README.ho.md)
+[linguas](./README.lg.md)
+[lideres-e-movimentos](./README.lm.md)
+[religioes-e-espiritualidade](./README.re.md)
+[arte-e-musica](./README.am.md)
+[culinaria](./README.cn.md)
+[historia-e-politica](./README.hp.md)
+[ciencia-e-tecnologia](./README.ct.md)
 
 Cada pasta pode conter **textos, imagens, áudios, vídeos ou documentos** relacionados ao seu tema.
 

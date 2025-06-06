@@ -45,7 +45,23 @@ Este é um projeto **aberto e colaborativo**. Para participar:
 
 ## 📁 Estrutura sugerida
 
-UbuntuMoyo/ ├── historias-orais/ ├── linguas/ ├── lideres-e-movimentos/ ├── religioes-e-espiritualidade/ ├── arte-e-musica/ ├── culinaria/ ├── historia-e-politica/ ├── ciencia-e-tecnologia/ └── README.md
+UbuntuMoyo/
+├── historias-orais/
+│   └── README.md
+├── linguas/
+│   └── README.md
+├── lideres-e-movimentos/
+│   └── README.md
+├── religioes-e-espiritualidade/
+│   └── README.md
+├── arte-e-musica/
+│   └── README.md
+├── culinaria/
+│   └── README.md
+├── historia-e-politica/
+│   └── README.md
+├── ciencia-e-tecnologia/
+│   └── README.md
 
 Cada pasta pode conter **textos, imagens, áudios, vídeos ou documentos** relacionados ao seu tema.
 
